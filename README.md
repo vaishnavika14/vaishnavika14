@@ -1,5 +1,10 @@
-### Hi there 👋
+Namaste
+ 
+🚀 **Machine Learning & AI Enthusiast | Open to Freelance Projects**  
 
+🔹 Passionate about building intelligent solutions with Machine Learning and AI  
+🔹 Exploring Deep Learning, NLP, and Data Science  
+🔹 Contributing to open-source AI project
 <!--
 **vaishnavika14/vaishnavika14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
