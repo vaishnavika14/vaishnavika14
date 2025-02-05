@@ -1,5 +1,29 @@
-Namaste
+Namaste 
 
+# 👋 Hi, I'm Vaishnavi 
+
+🚀 **Machine Learning & AI Enthusiast | Open to Freelance Projects**  
+
+🔹 Passionate about building intelligent solutions with Machine Learning and AI  
+🔹 Exploring Deep Learning, NLP, and Data Science  
+🔹 Contributing to open-source AI projects  
+
+---
+
+## 📌 My Machine Learning Projects  
+
+
+---
+
+## 📫 How to Reach Me  
+
+💼 [LinkedIn](https://www.linkedin.com/in/vaishnavi-kanagaraj-1239aa201/)  
+📧 vaishnavik1406@gmail.com
+
+
+---
+
+🚀 **Let’s connect and build something awesome!**  
 
 
 <!--
