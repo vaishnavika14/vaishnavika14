@@ -16,8 +16,8 @@ Namaste
   - Bike sharing prediction
  - Loan Prediction EDA
  - Behealthy case study
- - gesture recognition
- - melanoma skin cancer detection
+ - Gesture recognition
+ - Melanoma skin cancer detection
  - House price prediction-advancef linear regression
 
  ### My projects (done with self study and interest)
