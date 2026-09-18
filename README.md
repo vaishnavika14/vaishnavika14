@@ -10,8 +10,12 @@ Namaste
 
 ---
 
-## 📌 My Machine Learning Projects  
+## 📌  Projects  
 
+ ### My projects from EPG programme and Master's in AI and ML 
+ 
+
+ ### My projects (done with self study and interest)
 
 ---
 
